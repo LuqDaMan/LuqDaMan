@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there my name is Luqman 👋
+
+I am an undergraduate student majoring in Data Science and Business Analytics. 
+
+- 🔭 I’m currently working as a quant analyst intern at an asset management firm
+- 🌱 My interests: all things related to quantitative finance, CS and math
+- 📫 How to reach me: [My LinkedIn!](https://www.linkedin.com/in/luqm4n/)
 
 <!--
 **LuqDaMan/LuqDaMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
