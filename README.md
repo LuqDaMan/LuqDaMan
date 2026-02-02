@@ -1,6 +1,6 @@
 ## Hi there my name is Luqman 👋
 
-I am an associate AI Engineer at AI Singapore. 
+I am an Associate AI Engineer at AI Singapore. 
 
 - 🔭 Previously quant analyst intern at an asset management firm
 - 🌱 My interests: all things related to quantitative finance, CS and math
